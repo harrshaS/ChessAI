@@ -1,3 +1,5 @@
+#     Go through the file := Game:Chess.docx
+
 #################################
 #	Coding Standards	
 #################################
