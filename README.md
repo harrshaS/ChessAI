@@ -1,4 +1,4 @@
-#     Go through the file := Game:Chess.docx
+#     Go through the file := Game_Chess.docx
 
 #################################
 #	Coding Standards	
